@@ -8,6 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://PANKAJ955956.github.io/JOBEASY_PORTAL",
+
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.3",
